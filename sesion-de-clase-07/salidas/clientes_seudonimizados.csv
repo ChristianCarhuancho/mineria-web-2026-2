@@ -1,0 +1,121 @@
+id,ciudad,pais,codigo
+1,Lima,Peru,C-e0421af5
+2,Lima,Peru,C-92370009
+3,Lima,Peru,C-94282877
+4,Arequipa,Peru,C-01327b99
+5,Arequipa,Peru,C-233a0810
+6,Cusco,Peru,C-0b490037
+7,Cusco,Peru,C-c180f673
+8,Trujillo,Peru,C-2038deff
+9,Trujillo,Peru,C-8b5d7edd
+10,Piura,Peru,C-2985147b
+11,Piura,Peru,C-643cd561
+12,Chiclayo,Peru,C-a880491c
+13,Chiclayo,Peru,C-c94c0407
+14,Iquitos,Peru,C-f290f226
+15,Iquitos,Peru,C-42c83184
+16,Huancayo,Peru,C-5cd4ee80
+17,Huancayo,Peru,C-9d44f357
+18,Tacna,Peru,C-0b825705
+19,Tacna,Peru,C-54449aaa
+20,Puno,Peru,C-a69c4c00
+21,Puno,Peru,C-2b4fd520
+22,Chimbote,Peru,C-6c01fafd
+23,Chimbote,Peru,C-8e60de21
+24,Cajamarca,Peru,C-98365475
+25,Cajamarca,Peru,C-6105a3a8
+26,Lima,Peru,C-5c640f62
+27,Lima,Peru,C-270b521f
+28,Lima,Peru,C-fbe54d0e
+29,Lima,Peru,C-7708a279
+30,Lima,Peru,C-0a1c3889
+31,Arequipa,Peru,C-c36ca08f
+32,Arequipa,Peru,C-6eb33065
+33,Cusco,Peru,C-f360d379
+34,Cusco,Peru,C-dd3ae7b2
+35,Trujillo,Peru,C-24208d51
+36,Trujillo,Peru,C-513c5c5a
+37,Piura,Peru,C-6b76f664
+38,Piura,Peru,C-52896363
+39,Chiclayo,Peru,C-d75ac387
+40,Chiclayo,Peru,C-2b3451f2
+41,Santiago,Chile,C-f6730b86
+42,Santiago,Chile,C-0b1d5269
+43,Santiago,Chile,C-20873b5a
+44,Santiago,Chile,C-e669618c
+45,Valparaiso,Chile,C-40bb3c87
+46,Valparaiso,Chile,C-d5a794e6
+47,Concepcion,Chile,C-7b7f0c65
+48,Concepcion,Chile,C-aecfd049
+49,La Serena,Chile,C-07f84fec
+50,La Serena,Chile,C-c0312475
+51,Antofagasta,Chile,C-84b7af58
+52,Antofagasta,Chile,C-a7191922
+53,Santiago,Chile,C-c11be2be
+54,Santiago,Chile,C-ebc327d1
+55,Santiago,Chile,C-cc82ddf2
+56,Bogota,Colombia,C-b50b931a
+57,Bogota,Colombia,C-18662e69
+58,Medellin,Colombia,C-df262fa5
+59,Medellin,Colombia,C-36173932
+60,Cali,Colombia,C-4aebaa21
+61,Cali,Colombia,C-36a5570a
+62,Barranquilla,Colombia,C-14a60d4e
+63,Barranquilla,Colombia,C-efa82b2e
+64,Cartagena,Colombia,C-d56e2364
+65,Cartagena,Colombia,C-ec6145f4
+66,Bogota,Colombia,C-d79dfb3c
+67,Medellin,Colombia,C-237e41b1
+68,Cali,Colombia,C-78ac2f37
+69,Barranquilla,Colombia,C-ca1ba5c6
+70,Cartagena,Colombia,C-1dcb1d12
+71,Buenos Aires,Argentina,C-3540646f
+72,Buenos Aires,Argentina,C-84bd6f0a
+73,Cordoba,Argentina,C-ba5f15e0
+74,Cordoba,Argentina,C-4c714bba
+75,Rosario,Argentina,C-23fc37d0
+76,Rosario,Argentina,C-4a3c6e9d
+77,Mendoza,Argentina,C-f83c076a
+78,Mendoza,Argentina,C-38c7944b
+79,La Plata,Argentina,C-fce499c5
+80,La Plata,Argentina,C-7b3f6afb
+81,Buenos Aires,Argentina,C-f2351faf
+82,Buenos Aires,Argentina,C-79ea2bb5
+83,Cordoba,Argentina,C-6d870432
+84,Rosario,Argentina,C-de21d9b1
+85,Mendoza,Argentina,C-d372c496
+86,Quito,Ecuador,C-1b3fcf09
+87,Quito,Ecuador,C-da41d02c
+88,Guayaquil,Ecuador,C-ae6ba159
+89,Guayaquil,Ecuador,C-ab5a851c
+90,Cuenca,Ecuador,C-f8d6da79
+91,Cuenca,Ecuador,C-52e846d3
+92,Manta,Ecuador,C-818447cd
+93,Manta,Ecuador,C-be319824
+94,Quito,Ecuador,C-6e7e30a9
+95,Quito,Ecuador,C-b22b36b3
+96,Guayaquil,Ecuador,C-c428bf2e
+97,Guayaquil,Ecuador,C-d7934b67
+98,Cuenca,Ecuador,C-de04a584
+99,Cuenca,Ecuador,C-5aded658
+100,Manta,Ecuador,C-1054b33b
+101,Ciudad de Mexico,Mexico,C-da5cf8f2
+102,Ciudad de Mexico,Mexico,C-4bffad39
+103,Guadalajara,Mexico,C-e5665d1d
+104,Guadalajara,Mexico,C-77f98038
+105,Monterrey,Mexico,C-81ab5bcf
+106,Monterrey,Mexico,C-3d1a1491
+107,Ciudad de Mexico,Mexico,C-82b05b70
+108,Guadalajara,Mexico,C-a886af4f
+109,Monterrey,Mexico,C-730fb3a5
+110,Ciudad de Mexico,Mexico,C-e20e1093
+111,Montevideo,Uruguay,C-fb65d6c3
+112,Montevideo,Uruguay,C-d2337171
+113,Montevideo,Uruguay,C-519308b0
+114,Punta del Este,Uruguay,C-45e34890
+115,Punta del Este,Uruguay,C-111d400a
+116,Salto,Uruguay,C-46b5dfbb
+117,Salto,Uruguay,C-fbd66095
+118,Montevideo,Uruguay,C-8256c675
+119,Montevideo,Uruguay,C-67dc5f41
+120,Punta del Este,Uruguay,C-a7f75503

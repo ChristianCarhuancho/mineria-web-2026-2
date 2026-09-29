@@ -1,0 +1,4 @@
+,macro-F1,κ de Cohen,MAE (estrellas)
+"TF-IDF + RL (entrenado, CV 5)",0.639,0.512,
+nlptown (sin ajuste),0.747,0.651,0.559
+cardiffnlp (sin ajuste),0.669,0.528,

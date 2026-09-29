@@ -1,0 +1,64 @@
+cliente_id,valor,s_media,textos,codigo,pais,cuadrante
+1,48790.0,0.8636363636363636,11,C-e0421af5,Peru,Promotores valiosos
+2,399.0,0.0,2,C-92370009,Peru,Potencial
+3,449.0,0.16666666666666666,3,C-94282877,Peru,Potencial
+7,349.0,0.25,2,C-c180f673,Peru,Potencial
+8,1597.0,0.375,4,C-2038deff,Peru,Potencial
+9,449.0,0.0,3,C-8b5d7edd,Peru,Potencial
+12,2698.0,0.0,4,C-a880491c,Peru,Promotores valiosos
+15,999.0,-0.3333333333333333,3,C-42c83184,Peru,Riesgo de menor valor
+16,5999.0,0.0,2,C-5cd4ee80,Peru,Promotores valiosos
+17,5999.0,-0.5,3,C-9d44f357,Peru,Riesgo alto
+19,698.0,0.5,3,C-54449aaa,Peru,Potencial
+21,10997.0,0.8,5,C-2b4fd520,Peru,Promotores valiosos
+22,5256.0,0.25,6,C-6c01fafd,Peru,Promotores valiosos
+23,699.0,0.16666666666666666,3,C-8e60de21,Peru,Potencial
+24,699.0,0.25,2,C-98365475,Peru,Potencial
+25,999.0,0.25,2,C-6105a3a8,Peru,Potencial
+28,2398.0,0.6666666666666666,3,C-fbe54d0e,Peru,Promotores valiosos
+29,349.0,-0.6666666666666666,3,C-7708a279,Peru,Riesgo de menor valor
+33,19196.0,0.3333333333333333,6,C-f360d379,Peru,Promotores valiosos
+35,279.0,0.5,3,C-24208d51,Peru,Potencial
+37,1499.0,0.25,2,C-6b76f664,Peru,Potencial
+38,599.0,0.75,2,C-52896363,Peru,Potencial
+39,2648.0,0.375,4,C-d75ac387,Peru,Promotores valiosos
+43,4798.0,-0.75,2,C-20873b5a,Chile,Riesgo alto
+44,1999.0,0.25,2,C-e669618c,Chile,Promotores valiosos
+45,2799.0,0.25,2,C-40bb3c87,Chile,Promotores valiosos
+46,999.0,0.0,3,C-d5a794e6,Chile,Potencial
+48,1399.0,0.0,2,C-aecfd049,Chile,Potencial
+49,2199.0,0.0,2,C-07f84fec,Chile,Promotores valiosos
+50,2299.0,0.8333333333333334,3,C-c0312475,Chile,Promotores valiosos
+54,1799.0,0.5,3,C-ebc327d1,Chile,Potencial
+56,999.0,0.5,1,C-b50b931a,Colombia,Potencial
+59,6999.0,-1.0,2,C-36173932,Colombia,Riesgo alto
+60,399.0,0.5,2,C-4aebaa21,Colombia,Potencial
+65,3657.0,0.4,5,C-ec6145f4,Colombia,Promotores valiosos
+66,3499.0,0.16666666666666666,3,C-d79dfb3c,Colombia,Promotores valiosos
+69,3799.0,0.0,2,C-ca1ba5c6,Colombia,Promotores valiosos
+72,799.0,-0.5,2,C-84bd6f0a,Argentina,Riesgo de menor valor
+73,3299.0,-0.25,2,C-ba5f15e0,Argentina,Riesgo alto
+75,1699.0,0.0,1,C-23fc37d0,Argentina,Potencial
+76,1597.0,0.5,4,C-4a3c6e9d,Argentina,Potencial
+80,1958.0,0.75,2,C-7b3f6afb,Argentina,Potencial
+81,3299.0,0.25,2,C-f2351faf,Argentina,Promotores valiosos
+82,249.0,0.3333333333333333,3,C-79ea2bb5,Argentina,Potencial
+84,2897.0,0.625,4,C-de21d9b1,Argentina,Promotores valiosos
+85,15495.0,0.5833333333333334,6,C-d372c496,Argentina,Promotores valiosos
+86,2499.0,-0.75,2,C-1b3fcf09,Ecuador,Riesgo alto
+88,89.0,0.5,2,C-ae6ba159,Ecuador,Potencial
+90,2897.0,0.4,5,C-f8d6da79,Ecuador,Promotores valiosos
+92,699.0,-1.0,1,C-818447cd,Ecuador,Riesgo de menor valor
+93,6197.0,0.625,4,C-be319824,Ecuador,Promotores valiosos
+95,1799.0,-0.75,2,C-b22b36b3,Ecuador,Riesgo de menor valor
+98,2198.0,0.3333333333333333,3,C-de04a584,Ecuador,Promotores valiosos
+101,1348.0,-0.125,4,C-da5cf8f2,Mexico,Riesgo de menor valor
+102,8398.0,0.8333333333333334,3,C-4bffad39,Mexico,Promotores valiosos
+103,5298.0,0.25,2,C-e5665d1d,Mexico,Promotores valiosos
+106,189.0,0.5,3,C-3d1a1491,Mexico,Potencial
+107,2299.0,-0.5,2,C-82b05b70,Mexico,Riesgo alto
+108,3598.0,1.0,2,C-a886af4f,Mexico,Promotores valiosos
+116,2637.0,0.3333333333333333,3,C-46b5dfbb,Uruguay,Promotores valiosos
+117,15798.0,0.0,3,C-fbd66095,Uruguay,Promotores valiosos
+119,799.0,-0.5,2,C-67dc5f41,Uruguay,Riesgo de menor valor
+120,249.0,-1.0,1,C-a7f75503,Uruguay,Riesgo de menor valor

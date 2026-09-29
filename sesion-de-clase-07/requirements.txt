@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+transformers
+sentencepiece
+protobuf
+tiktoken
+sentence-transformers
+chromadb
+notebook
+ipykernel
