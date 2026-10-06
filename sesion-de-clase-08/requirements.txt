@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+nbformat
+torch
+transformers
+accelerate
+sentence-transformers
+umap-learn
+hdbscan
+bertopic
+pysentimiento
+notebook
+ipykernel
+ipywidgets
